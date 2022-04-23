@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Flutter, and also ui design projects**
 
-- 🤝 I’m looking for help with **Restful APIs and Solidity.**
+- 🤝 I’m looking for help with **Solidity.**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/richardiwo](https://linktr.ee/richardiwo)
 
