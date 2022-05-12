@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **expanding my programming knowledge.**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Restful API**
 
 - 👯 I’m looking to collaborate on **Flutter, and also ui design projects**
 
-- 🤝 I’m looking for help with **Solidity.**
+- 🤝 I’m looking for help with **Restful API.**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/richardiwo](https://linktr.ee/richardiwo)
 
