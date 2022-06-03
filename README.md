@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/_richardiwo" target="blank"><img src="https://img.shields.io/twitter/follow/_richardiwo?logo=twitter&style=for-the-badge" alt="_richardiwo" /></a> </p>
 
-- 🔭 I’m currently working on **expanding my programming knowledge.**
+- 🔭 I’m currently working on **learning Flutter, and at some point transition to cloud engineering (GCP).**
 
-- 🌱 I’m currently learning **Restful API**
+- 🌱 I’m currently learning **the Provider State Management Package**
 
 - 👯 I’m looking to collaborate on **Flutter, and also ui design projects**
 
-- 🤝 I’m looking for help with **Restful API.**
+- 🤝 I’m looking for help with **Flutter.**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/richardiwo](https://linktr.ee/richardiwo)
 
