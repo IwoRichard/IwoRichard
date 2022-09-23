@@ -3,13 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/_richardiwo" target="blank"><img src="https://img.shields.io/twitter/follow/_richardiwo?logo=twitter&style=for-the-badge" alt="_richardiwo" /></a> </p>
 
-- 🔭 I’m currently working on **learning Flutter, and at some point transition to cloud engineering (GCP).**
-
-- 🌱 I’m currently learning **the Provider State Management Package**
+- 🔭 I’m currently working on **Flutter.**
 
 - 👯 I’m looking to collaborate on **Flutter, and also ui design projects**
-
-- 🤝 I’m looking for help with **Flutter.**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/richardiwo](https://linktr.ee/richardiwo)
 
@@ -25,4 +21,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
