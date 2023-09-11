@@ -5,6 +5,8 @@
 
 - 💬 Ask me about **Dart, Flutter, Firebase/Firestore, Adobe xd**
 
+- 🔎 Currently learning **Java**
+
 - 📫 How to reach me **richardiwo1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
